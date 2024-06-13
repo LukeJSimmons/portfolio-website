@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.88ee579c.css",
+    "main.js": "/static/js/main.fc74604f.js",
+    "static/js/453.aac68abc.chunk.js": "/static/js/453.aac68abc.chunk.js",
+    "static/media/BannerImg.JPG": "/static/media/BannerImg.fd1c6533f74f27b04ad0.JPG",
+    "static/media/ThisWebsite.png": "/static/media/ThisWebsite.1eff3da86aff6c95551b.png",
+    "static/media/LJSIcon.png": "/static/media/LJSIcon.b8532afb034775679665.png",
+    "static/media/Substack.png": "/static/media/Substack.ff88263ddf8e889a95e0.png",
+    "static/media/Marketing.png": "/static/media/Marketing.8d982830e1c3c33ebc8f.png",
+    "static/media/KoineClothing.png": "/static/media/KoineClothing.af926782eddb5c725ca6.png",
+    "static/media/NMEIcon3x.png": "/static/media/NMEIcon3x.b1648bf150437c6ed0c3.png",
+    "static/media/Me.jpg": "/static/media/Me.2ff2ba783e3031e08cfa.jpg",
+    "static/media/WebsiteBannerTitle.png": "/static/media/WebsiteBannerTitle.9a2fccfdbfecff3aaad9.png",
+    "static/media/TechnicallsLogo.png": "/static/media/TechnicallsLogo.c31576c2734cad71271f.png",
+    "static/media/RiverSunsetSmall.png": "/static/media/RiverSunsetSmall.8a71c3bb9ef5a8648379.png",
+    "index.html": "/index.html",
+    "main.88ee579c.css.map": "/static/css/main.88ee579c.css.map",
+    "main.fc74604f.js.map": "/static/js/main.fc74604f.js.map",
+    "453.aac68abc.chunk.js.map": "/static/js/453.aac68abc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88ee579c.css",
+    "static/js/main.fc74604f.js"
+  ]
+}
