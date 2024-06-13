@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.88ee579c.css",
-    "main.js": "/static/js/main.cec0140a.js",
+    "main.css": "/static/css/main.6afa5047.css",
+    "main.js": "/static/js/main.c6a96413.js",
     "static/js/453.aac68abc.chunk.js": "/static/js/453.aac68abc.chunk.js",
     "static/media/BannerImg.JPG": "/static/media/BannerImg.fd1c6533f74f27b04ad0.JPG",
     "static/media/ThisWebsite.png": "/static/media/ThisWebsite.1eff3da86aff6c95551b.png",
@@ -15,12 +15,12 @@
     "static/media/TechnicallsLogo.png": "/static/media/TechnicallsLogo.c31576c2734cad71271f.png",
     "static/media/RiverSunsetSmall.png": "/static/media/RiverSunsetSmall.8a71c3bb9ef5a8648379.png",
     "index.html": "/index.html",
-    "main.88ee579c.css.map": "/static/css/main.88ee579c.css.map",
-    "main.cec0140a.js.map": "/static/js/main.cec0140a.js.map",
+    "main.6afa5047.css.map": "/static/css/main.6afa5047.css.map",
+    "main.c6a96413.js.map": "/static/js/main.c6a96413.js.map",
     "453.aac68abc.chunk.js.map": "/static/js/453.aac68abc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.88ee579c.css",
-    "static/js/main.cec0140a.js"
+    "static/css/main.6afa5047.css",
+    "static/js/main.c6a96413.js"
   ]
 }
