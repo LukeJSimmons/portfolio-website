@@ -1,26 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.6afa5047.css",
-    "main.js": "/static/js/main.c6a96413.js",
+    "main.css": "/static/css/main.8641585f.css",
+    "main.js": "/static/js/main.21b18063.js",
     "static/js/453.aac68abc.chunk.js": "/static/js/453.aac68abc.chunk.js",
     "static/media/BannerImg.JPG": "/static/media/BannerImg.fd1c6533f74f27b04ad0.JPG",
-    "static/media/ThisWebsite.png": "/static/media/ThisWebsite.1eff3da86aff6c95551b.png",
-    "static/media/LJSIcon.png": "/static/media/LJSIcon.b8532afb034775679665.png",
-    "static/media/Substack.png": "/static/media/Substack.ff88263ddf8e889a95e0.png",
-    "static/media/Marketing.png": "/static/media/Marketing.8d982830e1c3c33ebc8f.png",
-    "static/media/KoineClothing.png": "/static/media/KoineClothing.af926782eddb5c725ca6.png",
-    "static/media/NMEIcon3x.png": "/static/media/NMEIcon3x.b1648bf150437c6ed0c3.png",
-    "static/media/Me.jpg": "/static/media/Me.2ff2ba783e3031e08cfa.jpg",
-    "static/media/WebsiteBannerTitle.png": "/static/media/WebsiteBannerTitle.9a2fccfdbfecff3aaad9.png",
-    "static/media/TechnicallsLogo.png": "/static/media/TechnicallsLogo.c31576c2734cad71271f.png",
-    "static/media/RiverSunsetSmall.png": "/static/media/RiverSunsetSmall.8a71c3bb9ef5a8648379.png",
+    "static/media/ThisWebsite.webp": "/static/media/ThisWebsite.cc3130c6c55fe71365bd.webp",
+    "static/media/Substack.webp": "/static/media/Substack.b6eba5471edfb764d96c.webp",
+    "static/media/KoineClothing.webp": "/static/media/KoineClothing.dadc165b8f133f311961.webp",
+    "static/media/Me.webp": "/static/media/Me.9600721b01a40efe5c32.webp",
+    "static/media/Marketing.webp": "/static/media/Marketing.89a56da75e5932b3c35b.webp",
+    "static/media/LJSIcon.webp": "/static/media/LJSIcon.7010c6c8aa2146c02242.webp",
+    "static/media/NMEIcon3x.webp": "/static/media/NMEIcon3x.b6891cac958bad54f493.webp",
+    "static/media/WebsiteBannerTitle.webp": "/static/media/WebsiteBannerTitle.87f2766ff3ca5cb11a00.webp",
+    "static/media/TechnicallsLogo.webp": "/static/media/TechnicallsLogo.4b05766672db51cfa04c.webp",
+    "static/media/RiverSunsetSmall.webp": "/static/media/RiverSunsetSmall.c70c8dd6afb3ccf922a0.webp",
+    "static/media/InstagramLogo.webp": "/static/media/InstagramLogo.1a7b2c95e550ede08777.webp",
+    "static/media/twitterLogo.webp": "/static/media/twitterLogo.20ca69a8ba6abafa61bc.webp",
+    "static/media/linkedInLogo.webp": "/static/media/linkedInLogo.915181915b8243867667.webp",
     "index.html": "/index.html",
-    "main.6afa5047.css.map": "/static/css/main.6afa5047.css.map",
-    "main.c6a96413.js.map": "/static/js/main.c6a96413.js.map",
+    "static/media/MoreLines.webp": "/static/media/MoreLines.d65309bf21d4321b3bdc.webp",
+    "main.8641585f.css.map": "/static/css/main.8641585f.css.map",
+    "main.21b18063.js.map": "/static/js/main.21b18063.js.map",
     "453.aac68abc.chunk.js.map": "/static/js/453.aac68abc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6afa5047.css",
-    "static/js/main.c6a96413.js"
+    "static/css/main.8641585f.css",
+    "static/js/main.21b18063.js"
   ]
 }
