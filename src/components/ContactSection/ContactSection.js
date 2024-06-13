@@ -2,9 +2,9 @@ import './ContactSection.css';
 
 import React from "react";
 
-import instagram from '../../images/InstagramLogo.png';
-import twitter from '../../images/twitterLogo.png';
-import linkedIn from '../../images/linkedInLogo.png';
+import instagram from '../../images/WEBP/InstagramLogo.webp';
+import twitter from '../../images/WEBP/twitterLogo.webp';
+import linkedIn from '../../images/WEBP/linkedInLogo.webp';
 
 const ContactSection = () => {
     return (

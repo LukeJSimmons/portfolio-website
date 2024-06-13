@@ -2,7 +2,7 @@ import './HeaderSection.css';
 
 import React from "react";
 
-import moreLines from '../../images/MoreLines.png';
+import moreLines from '../../images/WEBP/MoreLines.webp';
 
 const HeaderSection = () => {
 

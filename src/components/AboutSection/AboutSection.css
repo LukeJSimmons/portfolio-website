@@ -34,7 +34,7 @@
 
   @media screen and (max-width: 650px) {
     #about {
-        background-image: url("../../images/Me.jpg");
+        background-image: url("../../images/WEBP/Me.webp");
         background-size: cover;
         position: relative;
         z-index: -2;

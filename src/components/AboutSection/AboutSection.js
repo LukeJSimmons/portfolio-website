@@ -2,7 +2,7 @@ import './AboutSection.css';
 
 import React from "react";
 
-import me from '../../images/Me.jpg';
+import me from '../../images/WEBP/Me.webp';
 
 const AboutSection = () => {
     return (
