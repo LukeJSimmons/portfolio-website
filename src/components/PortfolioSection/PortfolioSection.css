@@ -1,0 +1,79 @@
+#portfolio {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  
+  #portfolio #projectContainer {
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .project {
+    width: 25%;
+    padding-top: 15%;
+    background-size: cover;
+    color: #aec3d6;
+    text-align: left;
+    filter: brightness(0.5);
+    transition-property: filter;
+    transition-duration: 0.3s;
+    text-shadow: 2px 2px black;
+    background-position: center;
+  }
+  
+  .project:hover {
+    filter: brightness(1);
+  }
+  
+  .project h3 {
+    font-size: 1.5rem;
+    padding-left: 10px;
+  }
+  
+  @media screen and (max-width: 800px) {
+    #portfolio .flex {
+        flex-direction: column;
+    }
+    .project {
+        width: 100%;
+        padding-top: 50%;
+    }
+  }
+  
+  #portfolio #gameDev {
+    background-image: url("../../images/RiverSunsetSmall.png");
+  }
+  
+  #portfolio #thisWebsite {
+    background-image: url("../../images/ThisWebsite.png");
+  }
+  
+  #portfolio #music {
+    background-image: url("../../images/LJSIcon.png");
+  }
+  
+  #portfolio #newsletter {
+    background-image: url("../../images/Substack.png");
+  }
+  
+  #portfolio #koineClothing {
+    background-image: url("../../images/KoineClothing.png");
+  }
+  
+  #portfolio #marketing {
+    background-image: url("../../images/Marketing.png");
+  }
+  
+  #portfolio #podcast {
+    background-image: url("../../images/TechnicallsLogo.png");
+  }
+  
+  #portfolio #art {
+    background-image: url("../../images/NMEIcon3x.png");
+  }
+  
+  #portfolio #art h3 {
+    color: #0b1424;
+    text-shadow: none;
+  }

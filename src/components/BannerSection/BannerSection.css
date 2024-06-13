@@ -1,0 +1,44 @@
+#banner {
+    position: relative;
+    
+    background-image: url("../../images/BannerImg.JPG");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+    background-position-x: center;
+    background-attachment: fixed;
+    z-index: -2;
+  
+    height: 100vh;
+  
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+    text-align: center;
+  
+    color: #aec3d6;
+  
+    text-shadow: 2px 2px black;
+}
+
+#banner::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.5); /* Adjust the alpha channel (last value) for darkness */
+}
+
+#banner img {
+    width: 60%;
+    z-index: 2;
+}
+
+@media screen and (max-width: 350px) {
+    #banner img {
+      width: 90%;
+    }
+}

@@ -1,0 +1,14 @@
+footer {
+    text-shadow: none;
+    justify-content: space-between;
+}
+
+footer p {
+    margin: 10px;
+}
+
+@media screen and (max-width: 350px) {
+    footer #footerEmail {
+        display: none;
+    }
+}
