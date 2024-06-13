@@ -2,10 +2,13 @@ import './App.css';
 
 import React, { useEffect, useState } from 'react';
 
+// Images
 import me from './images/Me.jpg';
 import instagram from './images/InstagramLogo.png';
 import twitter from './images/twitterLogo.png';
 import linkedIn from './images/linkedInLogo.png';
+import moreLines from './images/MoreLines.png';
+import bannerTitle from './images/WebsiteBannerTitle.png';
 
 import SubstackSection from './components/SubstackSection/SubstackSection';
 
@@ -59,14 +62,13 @@ function App() {
               <li><a href="#portfolio">Portfolio</a></li>
               <li><a href="#about">About Me</a></li>
               <li><a href="#contact">Contact</a></li>
-              <img id="navBtn" src="./resources/images/MoreLines.png" alt='navigation toggle button' onClick={handleNavBtnClick}/>
+              <img id="navBtn" src={moreLines} alt='navigation toggle button' onClick={handleNavBtnClick}/>
           </ul>
       </header>
       <main>
           
           <div id="banner" className="flex">
-              <h1>Luke Simmons</h1>
-              <h3>Coder - Designer - Podcaster</h3>
+              <img src={bannerTitle}/>
           </div>
           <SubstackSection/>
           <div id="podcast-section">

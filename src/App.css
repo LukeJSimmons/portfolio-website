@@ -178,21 +178,14 @@ header img {
   background: rgba(0, 0, 0, 0.5); /* Adjust the alpha channel (last value) for darkness */
 }
 
-#banner h1 {
-  font-size: 4rem;
-  margin-bottom: -10px;
-  border-bottom: 8px solid #aec3d6;
-  font-weight: bold;
-}
-
-#banner h1,
-#banner h3 {
+#banner img {
+  width: 60%;
   z-index: 2;
 }
 
 @media screen and (max-width: 350px) {
-  #banner h1 {
-      font-size: 3rem;
+  #banner img {
+    width: 90%;
   }
   #contact h3 {
       font-size: 1rem;
@@ -201,10 +194,6 @@ header img {
       display: none;
   }
 }
-
-/* Newsletter */
-
-
 
 /* Portfolio */
 
