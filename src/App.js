@@ -1,6 +1,6 @@
 import './App.css';
 
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 
 // Images
 import me from './images/Me.jpg';
@@ -31,7 +31,6 @@ function App() {
       prevScrollPos = currentScrollPos;
   }
 
-  const navBtn = document.getElementById("navBtn");
   const navScreen = document.getElementById("navScreen");
 
   function handleNavBtnClick() {
@@ -68,7 +67,7 @@ function App() {
       <main>
           
           <div id="banner" className="flex">
-              <img src={bannerTitle}/>
+              <img src={bannerTitle} alt='Luke Simmons: Coder, Designer, Podcaster'/>
           </div>
           <SubstackSection/>
           <div id="podcast-section">
