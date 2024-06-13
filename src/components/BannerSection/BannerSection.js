@@ -2,7 +2,7 @@ import './BannerSection.css';
 
 import React from "react";
 
-import bannerTitle from '../../images/WebsiteBannerTitle.png';
+import bannerTitle from '../../images/WEBP/WebsiteBannerTitle.webp';
 
 const BannerSection = () => {
     return (
