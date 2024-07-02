@@ -19,7 +19,8 @@
   
     color: #aec3d6;
   
-    text-shadow: 2px 2px black;
+    text-shadow: 10px 10px 10px black;
+    font-size: 2.25rem;
 }
 
 #banner::before {
@@ -36,6 +37,27 @@
     width: 50%;
     z-index: 2;
 }
+
+#banner h1,
+#banner h4,
+#banner hr {
+    z-index: 2;
+}
+
+hr {
+    border-top: 6px solid #aec3d6;
+    border-radius: 5px;
+    width: 40rem;
+    margin-bottom: -60px;
+    margin-top: -75px;
+    box-shadow: 10px 10px 10px black;
+}
+
+.bowlby-one-sc-regular {
+    font-family: "Bowlby One SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }  
 
 @media screen and (max-width: 450px) {
     #banner img {
