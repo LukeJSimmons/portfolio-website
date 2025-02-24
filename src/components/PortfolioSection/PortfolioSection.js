@@ -9,7 +9,7 @@ const projects = [
     { title: "Game Dev", link: "https://lukedaaduke.itch.io/", img: "/images/RiverSunsetSmall.webp" },
     { title: "Podcast", link: "https://youtube.com/@technicallspodcast", img: "/images/TechnicallsLogo.webp" },
     { title: "Newsletter", link: "https://lukesimmons.substack.com/", img: "/images/Substack.webp" },
-    { title: "Artwork", link: "https://dribbble.com/LukeJSimmons", img: "/images/NMEIcon3x.webp" },
+    { title: "Graphic Design", link: "https://dribbble.com/LukeJSimmons", img: "/images/NMEIcon3x.webp" },
     { title: "Ruby", link: "https://github.com/LukeJSimmons?tab=repositories&q=&type=&language=ruby&sort=", img: "/images/RubyLogo.webp" },
     { title: "ReactJS", link: "https://github.com/LukeJSimmons?tab=repositories&q=&type=&language=javascript&sort=", img: "/images/ReactLogo.webp" },
   ];
