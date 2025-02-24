@@ -6,6 +6,7 @@ import Project from '../Project/Project';
 
 const projects = [
     { title: "Software Dev", link: "https://github.com/LukeJSimmons", img: "/images/SoftwareDev.webp" },
+    { title: "Praxis", link: "https://lukesimmons.substack.com/p/praxis-my-closing-reflection-newsletter", img: "/images/PraxisLogo.webp" },
     { title: "Game Dev", link: "https://lukedaaduke.itch.io/", img: "/images/RiverSunsetSmall.webp" },
     { title: "Podcast", link: "https://youtube.com/@technicallspodcast", img: "/images/TechnicallsLogo.webp" },
     { title: "Newsletter", link: "https://lukesimmons.substack.com/", img: "/images/Substack.webp" },
