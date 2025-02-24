@@ -1,0 +1,31 @@
+.project {
+    width: 22.5%;
+    padding-top: 15%;
+    margin-bottom: 2.5%;
+    background-size: cover;
+    color: #aec3d6;
+    text-align: left;
+    filter: brightness(0.5);
+    transition-property: filter;
+    transition-duration: 0.3s;
+    text-shadow: 2px 2px black;
+    background-position: center;
+    border-radius: 5%;
+    box-shadow: black 0 0 1rem;
+  }
+  
+  .project:hover {
+    filter: brightness(1);
+  }
+  
+  .project h3 {
+    font-size: 1.5rem;
+    padding-left: 10px;
+  }
+  
+  @media screen and (max-width: 800px) {
+    .project {
+        width: 100%;
+        padding-top: 50%;
+    }
+  }

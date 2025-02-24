@@ -2,8 +2,6 @@ import './AboutSection.css';
 
 import React from "react";
 
-import me from '../../images/WEBP/Me.webp';
-
 const AboutSection = () => {
     return (
         <div id="about" className="flex">
@@ -14,7 +12,7 @@ const AboutSection = () => {
                       I seek to honor and glorify Him in all that I do.</p>
                   {/* <a href="./aboutme.html"><button>Read More</button></a> */}
               </div>
-              <img src={me} alt='Luke Simmons in a suit' />
+              <img src='/images/Me.webp' alt='Luke Simmons' />
           </div>
     );
 };

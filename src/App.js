@@ -16,8 +16,8 @@ function App() {
       <HeaderSection/>
       <main>
           <BannerSection/>
-          <SubstackSection/>
           <PortfolioSection/>
+          <SubstackSection/>
           <AboutSection/>
           <ContactSection/>
       </main>

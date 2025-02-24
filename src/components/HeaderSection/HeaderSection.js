@@ -2,8 +2,6 @@ import './HeaderSection.css';
 
 import React, { useState } from "react";
 
-import moreLines from '../../images/WEBP/MoreLines.webp';
-
 const HeaderSection = () => {
 
     const [navScreenShow, setNavScreenShow] = useState(false);
@@ -46,7 +44,7 @@ const HeaderSection = () => {
               <li><a href="#portfolio">Portfolio</a></li>
               <li><a href="#about">About Me</a></li>
               <li><a href="#contact">Contact</a></li>
-              <img id="navBtn" src={moreLines} alt='navigation toggle button' onClick={handleNavBtnClick}/>
+              <img id="navBtn" src='/images/MoreLines.webp' alt='navigation toggle button' onClick={handleNavBtnClick}/>
           </ul>
       </header>
     );
