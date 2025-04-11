@@ -6,16 +6,15 @@ const ContactSection = () => {
     return (
         <div id="contact" className="flex">
               <div>
-                  <h2>Contact</h2>
-                  <h3>lucasjsimmons@yahoo.com</h3>
-              </div>
-              <div>
-                  <h2>Follow</h2>
-                  <br/>
-                  <br/>
-                  <a href="https://www.instagram.com/lordlucasjames/" target="_blank" rel="noreferrer"><img src='/images/InstagramLogo.webp' alt='Instagram' /></a>
-                  <a href="https://twitter.com/LukeJSimmons/" target="_blank" rel="noreferrer"><img src='/images/twitterLogo.webp' alt='Twitter' /></a>
-                  <a href="https://www.linkedin.com/in/lukejsimmons1689/" target="_blank" rel="noreferrer"><img src='/images/linkedInLogo.webp' alt='LinkedIn' /></a>
+                <h2>Contact</h2>
+                <h3>
+                    <a href='mailto:lucasjsimmons@yahoo.com'>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <title>email-outline</title>
+                        <path d="M22 6C22 4.9 21.1 4 20 4H4C2.9 4 2 4.9 2 6V18C2 19.1 2.9 20 4 20H20C21.1 20 22 19.1 22 18V6M20 6L12 11L4 6H20M20 18H4V8L12 13L20 8V18Z" />
+                    </svg>
+                    </a>
+                </h3>
               </div>
           </div>
     );

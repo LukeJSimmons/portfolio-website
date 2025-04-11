@@ -12,15 +12,14 @@
     margin-bottom: -10px;
 }
 
-#contact img {
+#contact svg {
     width: 75px;
-    background-color: #ffffff00;
-    border-radius: 1vh;
-    transition: background-color 0.2s;
+    fill: #aec3d6;
+    transition: fill 0.2s;
 }
 
-#contact img:hover {
-    background-color: #0b1424;
+#contact svg:hover {
+    fill: white;
 }
 
 @media screen and (max-width: 650px) {
